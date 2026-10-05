@@ -13,7 +13,7 @@ The project is developed using HTML5, CSS3, and JavaScript with a modern glassmo
 ## 🖼️ Project Preview
 
 <p align="center">
-  <img src="./images/temperature-converter.png" width="900" alt="Temperature Converter Website">
+  <img src="./images/temperature-converter.png" width="900" alt="Temperature Converter Preview">
 </p>
 ---
 
