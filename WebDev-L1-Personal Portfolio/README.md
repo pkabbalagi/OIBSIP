@@ -12,10 +12,10 @@ The portfolio features a clean, attractive, and modern interface with a 3D-inspi
 
 ## 🚀 Live Demo
 
-👉 [TempX | Temperature Converter](https://pkabbalagi.github.io/OIBSIP/WebDev-L1-Temperature%20Converter/)
+👉 [Priyanka Kabbalagi | Personal Portfolio](http://127.0.0.1:5500/index.html)
+
+
 ---
-
-
 
 ## 🖼️ Project Preview
 
