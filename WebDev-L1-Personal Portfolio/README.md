@@ -1,288 +1,168 @@
-\# 💼 Personal Portfolio Website
+# 💼 Priyanka Kabbalagi – Personal Portfolio
 
+## Oasis Infobyte Web Development Internship
 
+### Task 2 – Personal Portfolio
 
-\## Oasis Infobyte Web Development Internship
+A modern and responsive personal portfolio website created to showcase my professional profile, technical skills, projects, certifications, and contact information.
 
+The portfolio features a clean, attractive, and modern interface with a 3D-inspired visual style, smooth navigation, animations, and responsive design for desktop, tablet, and mobile devices.
 
+---
 
-\### Task 2 – Personal Portfolio
+## 🌐 Live Demo
 
+🚀 **[View My Portfolio](http://127.0.0.1:5500/index.html)**
 
+> This is the local development link using VS Code Live Server.
 
-A modern, responsive personal portfolio website created to showcase my professional profile, technical skills, projects, and contact information.
+---
 
-
-
-The portfolio is designed with a clean, attractive, and modern interface with a 3D-inspired visual style and responsive layout for desktop and mobile devices.
-
-
-
-\---
-
-
-
-\## 🖼️ Project Preview
-
-
+## 🖼️ Project Preview
 
 <p align="center">
-
-&#x20; <img src="./images/portfolio.png" width="900" alt="Priyanka Kabbalagi Personal Portfolio">
-
+  <img src="./images/portfolio.png" width="900" alt="Priyanka Kabbalagi Personal Portfolio">
 </p>
 
+---
 
+## 👩‍💻 About Me
 
-\---
+Hi, I'm **Priyanka Kabbalagi**, a Computer Science Engineering student with interests in **Web Development, IoT, Cybersecurity, Artificial Intelligence, and emerging technologies**.
 
+I enjoy building practical digital solutions, learning new technologies, and developing user-friendly applications to solve real-world problems.
 
+---
 
-\## 👩‍💻 About Me
+## ✨ Features
 
+- 🎯 Professional hero section
+- 👩‍💻 Personal profile information
+- 📖 About Me section
+- 🎓 Education section
+- 💻 Technical Skills section
+- 🚀 Projects showcase
+- 📜 Certifications section
+- 📞 Contact section
+- 🔗 GitHub link
+- 🔗 LinkedIn link
+- 🖼️ Profile photo
+- ✨ 3D-inspired visual design
+- 🎨 Modern dark UI
+- 🌀 Smooth scrolling navigation
+- ✨ Hover animations
+- 📱 Fully responsive design
+- 💻 Desktop and mobile compatibility
 
+---
 
-Hi, I'm \*\*Priyanka Kabbalagi\*\*, a Computer Science Engineering student with interests in \*\*Web Development, IoT, Cybersecurity, and AI-based applications\*\*.
+## 🛠️ Technologies Used
 
+- HTML5
+- CSS3
+- JavaScript
+- Google Fonts
+- Responsive Web Design
 
+---
 
-I enjoy developing practical projects, learning new technologies, and creating user-friendly digital solutions.
+## 💻 Technical Skills
 
+### Programming Languages
 
+- C
+- Python
+- JavaScript
 
-\---
+### Web Technologies
 
+- HTML
+- CSS
+- JavaScript
 
+### Areas of Interest
 
-\## ✨ Features
+- Web Development
+- Internet of Things (IoT)
+- Cybersecurity
+- Artificial Intelligence
+- Machine Learning
+- Blockchain
 
+---
 
+## 🚀 Projects
 
-\- Professional hero section
+### 🧴 Smart Skin Disease Detection and Recommendation System Using AI
 
-\- Personal profile information
+An AI-based project designed to analyze skin disease images and provide disease prediction, severity analysis, and suitable recommendations.
 
-\- About Me section
+#### Key Features
 
-\- Technical skills section
+- Image-based skin disease detection
+- Severity analysis
+- Allopathic recommendations
+- Ayurvedic recommendations
+- Home remedies
+- Multilingual support
+- Educational information
+- Diet and lifestyle guidance
+- Doctor consultation support
 
-\- Project showcase
+---
 
-\- Contact section
-
-\- GitHub link
-
-\- LinkedIn link
-
-\- Smooth scrolling navigation
-
-\- Responsive design
-
-\- Mobile-friendly layout
-
-\- Modern 3D-inspired UI
-
-\- Attractive animations and hover effects
-
-\- Consistent color scheme and typography
-
-
-
-\---
-
-
-
-\## 🛠️ Technologies Used
-
-
-
-\- HTML5
-
-\- CSS3
-
-\- JavaScript
-
-\- Google Fonts
-
-\- Responsive Web Design
-
-
-
-\---
-
-
-
-\## 💻 Skills Showcased
-
-
-
-\### Programming \& Web Development
-
-
-
-\- HTML
-
-\- CSS
-
-\- JavaScript
-
-\- Python
-
-\- C
-
-
-
-\### Areas of Interest
-
-
-
-\- Web Development
-
-\- Internet of Things (IoT)
-
-\- Cybersecurity
-
-\- Artificial Intelligence
-
-\- Machine Learning
-
-\- Blockchain
-
-
-
-\---
-
-
-
-\## 🚀 Projects
-
-
-
-\### 🌐 Smart Skin Disease Detection and Recommendation System Using AI
-
-
-
-An AI-based project designed to detect skin diseases from images and provide severity analysis and suitable recommendations.
-
-
-
-\*\*Key areas:\*\*
-
-\- Image-based disease detection
-
-\- Severity analysis
-
-\- Treatment recommendations
-
-\- Multilingual support
-
-\- Educational information
-
-
-
-\---
-
-
-
-\### 📚 Snap \& Study
-
-
+### 📚 Snap & Study
 
 An AI-powered study application that allows students to upload images of notes or questions and interact with an AI study assistant.
 
+#### Key Features
 
+- Image-based question analysis
+- AI study assistance
+- Interactive chat
+- Study summaries
+- Student-friendly interface
 
-\*\*Key features:\*\*
+---
 
-\- Image-based question analysis
+## 🎨 Design
 
-\- AI study assistance
+The portfolio uses a modern and attractive design featuring:
 
-\- Interactive chat
+- 3D-inspired elements
+- Dark futuristic interface
+- Blue and purple accent colors
+- Modern typography
+- Smooth animations
+- Interactive hover effects
+- Glass-style UI elements
+- Clean card-based layouts
+- Responsive sections
 
-\- Study summaries
+---
 
-\- Student-friendly interface
+## 📱 Responsive Design
 
+The website is designed to work across different screen sizes:
 
+- 💻 Desktop
+- 💻 Laptop
+- 📱 Tablet
+- 📱 Mobile
 
-\---
+The layout automatically adapts to different screen sizes using responsive CSS.
 
+---
 
-
-\## 📱 Responsive Design
-
-
-
-The portfolio is designed to work across:
-
-
-
-\- 💻 Desktop
-
-\- 💻 Laptop
-
-\- 📱 Tablet
-
-\- 📱 Mobile devices
-
-
-
-The layout automatically adapts to different screen sizes using responsive CSS techniques.
-
-
-
-\---
-
-
-
-\## 🎨 Design
-
-
-
-The portfolio uses a modern visual style featuring:
-
-
-
-\- 3D-inspired elements
-
-\- Modern typography
-
-\- Smooth animations
-
-\- Interactive hover effects
-
-\- Clean card-based layouts
-
-\- Responsive sections
-
-\- Professional color palette
-
-
-
-\---
-
-
-
-\## 📂 Project Structure
-
-
+## 📂 Project Structure
 
 ```text
-
 WebDev-L1-Personal Portfolio
-
 │
-
 ├── index.html
-
 ├── style.css
-
 ├── script.js
-
 ├── README.md
-
+│
 └── images
-
-&#x20;   └── portfolio.png
-
+    └── portfolio.png
