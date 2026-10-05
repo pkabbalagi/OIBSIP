@@ -14,16 +14,7 @@ The landing page presents NovaFlow as a productivity platform that helps individ
 
 👉 [NovaFlow Landing Page](http://127.0.0.1:5500/index.html)
 
-> **Note:** The above link uses VS Code Live Server and works while the project is running locally.
 
----
-
-## 🖼️ Project Preview
-
-<p align="center">
-  <img src="./images/Landing-Page.png" width="900" alt="NovaFlow Landing Page Preview">
-</p>
----
 
 ## ✨ Features
 
