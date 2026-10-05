@@ -1,78 +1,64 @@
-# NovaFlow Landing Page
+# 🚀 NovaFlow Landing Page
 
 ## Oasis Infobyte Web Development Internship
 
 ### Task 1 – Landing Page
 
-NovaFlow is a modern, responsive landing page created for a fictional productivity platform. This project demonstrates fundamental HTML5 and CSS3 web development skills.
+NovaFlow is a modern, responsive landing page created for a fictional productivity platform. The project focuses on creating a clean and attractive user interface using HTML5 and CSS3.
 
-## Features
+The landing page presents NovaFlow as a productivity platform that helps individuals and teams organize their work, manage projects, and stay focused.
 
-- Sticky navigation bar
-- Home, Features, About and Testimonials navigation links
-- Hero section with headline and subheadline
-- Call-to-action buttons
-- Features section
-- About section
-- Testimonials section
-- Call-to-action section
-- Footer with social media links
-- Responsive design
-- CSS Flexbox and Grid
-- Mobile-friendly layout
-- Consistent color palette
-- Modern typography
-- Smooth scrolling
+---
 
-## Technologies Used
+## 🌐 Live Demo
 
-- HTML5
-- CSS3
-- Flexbox
-- CSS Grid
-- Google Fonts
+👉 [NovaFlow Landing Page](http://127.0.0.1:5500/index.html)
 
-## Responsive Design
+> **Note:** The above link uses VS Code Live Server and works while the project is running locally.
 
-The website is responsive and designed for:
+---
 
-- Desktop
-- Laptop
-- Tablet
-- Mobile devices
+## 🖼️ Project Preview
 
-CSS media queries are used to adapt the layout for smaller screen sizes.
+<p align="center">
+  <img src="./images/Landing-Page.png" width="900" alt="NovaFlow Landing Page Preview">
+</p>
 
-## How to Run
+---
 
-1. Download or clone the repository.
-2. Open the `WebDev-L1-LandingPage` folder.
-3. Open `index.html` in a web browser.
+## ✨ Features
 
-The project can also be run using the Live Server extension in Visual Studio Code.
+- 📌 Sticky navigation bar
+- 🏠 Home section
+- ⚡ Features section
+- ℹ️ About section
+- 💬 Testimonials section
+- 🚀 Get Started call-to-action button
+- 🎨 Modern and clean UI design
+- 📱 Responsive layout
+- ✨ Attractive typography and color scheme
+- 📊 Productivity progress card
+- 🔗 Navigation links between sections
 
-## Task Checklist
+---
 
-- [x] Sticky navigation bar
-- [x] At least 3 navigation links
-- [x] Hero section
-- [x] Headline and subheadline
-- [x] Call-to-action button
-- [x] Multiple content sections
-- [x] Footer
-- [x] Social/contact links
-- [x] Consistent color palette
-- [x] Responsive layout
-- [x] Flexbox/Grid
-- [x] Mobile compatibility
-- [x] Clean typography
-- [x] HTML5
-- [x] CSS3
+## 🛠️ Technologies Used
 
-## Internship
+- **HTML5** – Page structure and content
+- **CSS3** – Styling, layout, responsiveness, and visual design
+- **JavaScript** – Basic interactive functionality
 
-This project was developed as part of the Oasis Infobyte Web Development Internship.
+---
 
-## Author
+## 📂 Project Structure
 
-Priyanka Manjunath Kabbalagi
+```text
+WebDev-L1-LandingPage/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+│
+└── images/
+    └── Landing-Page.png
