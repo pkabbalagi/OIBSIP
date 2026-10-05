@@ -20,8 +20,10 @@ The portfolio features a clean, attractive, and modern interface with a 3D-inspi
 
 ## 🖼️ Project Preview
 
+## 🖼️ Project Preview
+
 <p align="center">
-  <img src="./images/portfolio.png" width="900" alt="Priyanka Kabbalagi Personal Portfolio">
+  <img src="./images/portfolio.png" alt="Priyanka Kabbalagi Personal Portfolio">
 </p>
 
 ## 👩‍💻 About Me
