@@ -9,10 +9,9 @@ Temperature Converter is an interactive and responsive web application that allo
 The project is developed using HTML5, CSS3, and JavaScript with a modern glassmorphism-inspired user interface.
 
 ---
-
 ## 🚀 Live Demo
 
-👉 [TempX | Temperature Converter](https://pkabbalagi.github.io/OIBSIP/)
+👉 [TempX | Temperature Converter](http://127.0.0.1:5500/index.html)
 
 
 ## 🖼️ Project Preview
