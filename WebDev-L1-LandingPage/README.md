@@ -23,7 +23,6 @@ The landing page presents NovaFlow as a productivity platform that helps individ
 <p align="center">
   <img src="./images/Landing-Page.png" width="900" alt="NovaFlow Landing Page Preview">
 </p>
-
 ---
 
 ## ✨ Features
