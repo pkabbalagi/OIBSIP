@@ -10,12 +10,9 @@ The portfolio features a clean, attractive, and modern interface with a 3D-inspi
 
 ---
 
-## 🌐 Live Demo
+## 🚀 Live Demo
 
-🚀 **[View My Portfolio](127.0.0.1:5500/index.html)**
-
-> This is the local development link using VS Code Live Server.
-
+👉 [TempX | Temperature Converter](https://pkabbalagi.github.io/OIBSIP/WebDev-L1-Temperature%20Converter/)
 ---
 
 
