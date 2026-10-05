@@ -12,7 +12,7 @@ The portfolio features a clean, attractive, and modern interface with a 3D-inspi
 
 ## 🌐 Live Demo
 
-🚀 **[View My Portfolio](http://127.0.0.1:5500/index.html)**
+🚀 **[View My Portfolio](127.0.0.1:5500/index.html)**
 
 > This is the local development link using VS Code Live Server.
 
